@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScreenOrientation</string>
+
+    <string name="first_name">Введите имя</string>
+    <string name="last_name">Введите фамилию</string>
+
+    <string-array name="countries">
+        <item>Азербайджанская Республика</item>
+        <item>Республика Армения</item>
+        <item>Республика Беларусь</item>
+        <item>Республика Казахстан</item>
+        <item>Кыргызская Республика</item>
+        <item>Республика Молдова</item>
+        <item>Российская Федерация</item>
+        <item>Республика Таджикистан</item>
+        <item>Туркменистан</item>
+        <item>Республика Узбекистан</item>
+        <item>Украина</item>
+    </string-array>
+</resources>
